@@ -1,0 +1,51 @@
+[{
+  "id": 1,
+  "name": "Emergency",
+  "phone": "+00880194001245",
+  "img": "https://image.freepik.com/free-photo/spinal-surgery-group-surgeons-operating-room-with-surgery-equipment_179755-1741.jpg",
+  "Price": "5000 Taka"
+},
+{
+  "id": 2,
+  "name": "Blood bank",
+  "phone": "+00880194001245",
+  "img": "https://image.freepik.com/free-vector/red-donor-day-concept-background_1017-19050.jpg",
+  "Price": "4000 Taka"
+},
+{
+  "id": 3,
+  "name": "Diabetes center",
+  "phone": "+00880194001245",
+  "img": "https://image.freepik.com/free-vector/hand-drawn-flat-world-diabetes-day-background_23-2149115040.jpg",
+  "Price": "3000 Taka"
+},
+{
+  "id": 4,
+  "name": "Sample collection",
+  "phone": "+00880194001245",
+  "img": "https://image.freepik.com/free-photo/middle-age-scientists-researchers-work-chemical-laboratory_473712-1632.jpg",
+  "Price": "1500 Taka"
+},
+{
+  "id": 5,
+  "name": "Pharmacy",
+  "phone": "+00880194001245",
+  "img": "https://image.freepik.com/free-photo/closeup-view-pharmacist-hand-taking-medicine-box-from-shelf-drug-store_342744-320.jpg",
+  "Price": "15000 Taka"
+},
+{
+  "id": 6,
+  "name": "Prayer room",
+  "phone": "+00880194001245",
+  "img": "https://image.freepik.com/free-vector/young-man-pray-ramadan-day_187851-372.jpg",
+  "Price": "Free"
+},
+{
+  "id": 7,
+  "name": "Vaccination",
+  "phone": "+00880194001245",
+  "img": "https://image.freepik.com/free-photo/young-asian-lady-nurse-giving-covid-19-flu-antivirus-vaccine-shot-senior-male-patient_7861-2845.jpg",
+  "Price": "Free"
+}
+
+]
